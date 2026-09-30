@@ -6,13 +6,13 @@ import UnlockGate from './components/UnlockGate';
 import OldSongsArchive from './components/OldSongsArchive';
 import DeployGuideModal from './components/DeployGuideModal';
 import { decryptPayload } from './utils/crypto';
-import latestThumbnail from './assets/latest-thumbnail.png';
+import latestThumbnail from './assets/latest-thumbnail.jpg';
 
 const DEFAULT_CONFIG = {
   title: "Jai Phulalo Ludo Budu (Top Odia X Telugu Full Ramp Dance Mix)",
   artist: "Dj Dillu X Dj Mouli Kiran",
   coverArt: latestThumbnail,
-  youtubeUrl: "https://www.youtube.com/@Dj-Dillu?sub_confirmation=1",
+  youtubeUrl: "https://www.youtube.com/@djdillumusic?sub_confirmation=1",
   instagramUrl: "https://www.instagram.com/djdillu__/",
   whatsappUrl: "https://chat.whatsapp.com/H8eHV3Z3LmDDL16DjzF0jg?s=cl&p=a&mlu=4&ilr=4",
   targetUrl: "https://www.mediafire.com/file/4if0b7b4cnww459/All_Folk_%252B_ODia_Mix_Dj_Ramp_Dance_Mix_Dj_Dillu.mp3/file",

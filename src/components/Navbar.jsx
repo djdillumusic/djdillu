@@ -54,7 +54,7 @@ export default function Navbar({ activeTab, setActiveTab, isAdminMode = false, o
           )}
 
           <a
-            href="https://www.youtube.com/@Dj-Dillu?sub_confirmation=1"
+            href="https://www.youtube.com/@djdillumusic?sub_confirmation=1"
             target="_blank"
             rel="noopener noreferrer"
             className="gh-link-btn"
